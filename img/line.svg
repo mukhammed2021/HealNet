@@ -1,0 +1,13 @@
+<svg width="1460.000000" height="631.000000" viewBox="0 0 1460 631" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="1.999878" y1="526.999634" x2="1408.999756" y2="0.999756" id="paint_linear_76_340_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00A3F4" stop-opacity="0.419608"/>
+			<stop offset="0.563099" stop-color="#00A4F4" stop-opacity="0.109804"/>
+			<stop offset="0.887261" stop-color="#00A4F4" stop-opacity="0.600000"/>
+		</linearGradient>
+	</defs>
+	<path id="Vector 1" d="M1457.77 1.96C1394.63 1.96 1331.38 -6.74 1275.43 28.12C1240.6 49.82 1218.04 83.65 1198.49 118.9C1173.82 163.38 1157 214.94 1118.31 248.16C1079.64 281.38 1031.8 301.45 984.44 312.17C927.06 325.17 872.68 287.04 833.96 248.47C786.36 201.06 752.89 136.72 752.09 68.43C751.83 45.75 769.14 20.66 793.33 17.81C835.14 12.89 841.23 137.91 842.26 162.3C843.62 194.32 845.48 228.89 835.49 259.85C814.69 324.37 715 347.5 699.84 351.03C684.69 354.56 581.5 381 481.5 397.5C381.5 414 265.97 404.47 166.21 436.89C115.63 453.32 62.76 483.94 30.03 526.6C4.93 559.3 4.96 588.91 1.56 628" stroke="url(#paint_linear_76_340_0)" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linecap="round" stroke-dasharray="12 12"/>
+</svg>

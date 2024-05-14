@@ -1,0 +1,22 @@
+<svg width="142.000000" height="40.000000" viewBox="0 0 142 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="115.068962" y1="5.280174" x2="55.086197" y2="5.280174" id="paint_linear_2001_262_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0179B4"/>
+			<stop offset="0.876334" stop-color="#88D8FF"/>
+		</linearGradient>
+		<linearGradient x1="115.068962" y1="19.715416" x2="55.086197" y2="19.715416" id="paint_linear_2001_263_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0179B4"/>
+			<stop offset="0.876334" stop-color="#88D8FF"/>
+		</linearGradient>
+		<linearGradient x1="115.068962" y1="33.982506" x2="55.086197" y2="33.982506" id="paint_linear_2001_264_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0179B4"/>
+			<stop offset="0.876334" stop-color="#88D8FF"/>
+		</linearGradient>
+	</defs>
+	<path id="Vector" d="M142 1C134.11 1 134.11 9.56 126.22 9.56C118.33 9.56 118.33 1 110.44 1C102.55 1 102.55 9.56 94.66 9.56C86.77 9.56 86.77 1 78.88 1C71 1 71 9.56 63.11 9.56C55.22 9.56 55.22 1 47.33 1C39.44 1 39.44 9.56 31.55 9.56C23.66 9.56 23.66 1 15.77 1C7.88 1 7.88 9.56 0 9.56" stroke="url(#paint_linear_2001_262_0)" stroke-opacity="1.000000" stroke-width="2.018957"/>
+	<path id="Vector" d="M142 15.43C134.11 15.43 134.11 23.99 126.22 23.99C118.33 23.99 118.33 15.43 110.44 15.43C102.55 15.43 102.55 23.99 94.66 23.99C86.77 23.99 86.77 15.43 78.88 15.43C71 15.43 71 23.99 63.11 23.99C55.22 23.99 55.22 15.43 47.33 15.43C39.44 15.43 39.44 23.99 31.55 23.99C23.66 23.99 23.66 15.43 15.77 15.43C7.88 15.43 7.88 23.99 0 23.99" stroke="url(#paint_linear_2001_263_0)" stroke-opacity="1.000000" stroke-width="2.018957"/>
+	<path id="Vector" d="M142 29.7C134.11 29.7 134.11 38.26 126.22 38.26C118.33 38.26 118.33 29.7 110.44 29.7C102.55 29.7 102.55 38.26 94.66 38.26C86.77 38.26 86.77 29.7 78.88 29.7C71 29.7 71 38.26 63.11 38.26C55.22 38.26 55.22 29.7 47.33 29.7C39.44 29.7 39.44 38.26 31.55 38.26C23.66 38.26 23.66 29.7 15.77 29.7C7.88 29.7 7.88 38.26 0 38.26" stroke="url(#paint_linear_2001_264_0)" stroke-opacity="1.000000" stroke-width="2.018957"/>
+</svg>
